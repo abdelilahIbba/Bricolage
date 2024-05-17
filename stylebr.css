@@ -1,0 +1,51 @@
+header{
+    background-color: rgb(49, 162, 255);
+    border-radius: 15px;
+    margin: 15px;
+}
+nav{
+    background-color: black;
+    border-radius: 15px;
+    border: 2px solid rgb(255, 255, 255);
+}
+nav li{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    display: inline-block;
+    margin: 0px 35px;
+    border-left:  3PX solid rgb(255, 255, 255);
+    border-right: 3PX solid rgb(255, 255, 255);
+    padding: 0px 10px;
+}
+section{
+    text-align: center;
+}
+section article{
+    background-color: rgb(49, 162, 255);
+    width: 280px;
+    display: inline-block;
+    border-radius: 15px;
+    margin: 15px;
+}
+.article-detail{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 15px;
+    border: 2PX solid rgb(255, 255, 255);
+}
+footer{
+    background-color: rgb(49, 162, 255);
+    text-align: center;
+    font-size: 18px;
+}
+nav li a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+nav li a:hover{
+    background-color: rgb(49, 162, 255);
+    color: black;
+    padding: 10px;
+    border-radius: 15px;
+}
